@@ -1,4 +1,4 @@
-# Web Project
+# Web Project PG18
 a website for [YWC15](https://ywc15.ywc.in.th/) audition(interview) round
 ## Story Behind
 It's my first time creating a website(a serious one).
