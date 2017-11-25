@@ -159,6 +159,7 @@ header.masthead {
 
 .about-heading {
   margin: 15px 0;
+  font-size: 22px;
   text-transform: none; }
 
 #announcement .announcement-item {
@@ -202,6 +203,7 @@ header.masthead {
     text-align: center;
     background-color: #fff; }
     #announcement .announcement-item .announcement-caption h4 {
+      font-size: 20px;
       margin: 0;
       text-transform: none; }
     #announcement .announcement-item .announcement-caption p {
